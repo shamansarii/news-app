@@ -1,7 +1,7 @@
 NEWS APP
 --------
 
-You can see the website here:
+You can see the website here:  https://shamansarii.github.io/news-app/
 
 A basic client-side News App example.
 Uses the [News API](https://newsapi.org/) to request news data.
