@@ -15,6 +15,9 @@ The app MUST use:
 1. Bootstrap
 2. Google Fonts for fonts
 3. JQuery for Ajax
+4. API - (Application Programming Interface)
+5. JSON - The weather data.
+
 
 The CDNs of all ingredients, along with `script.js` and `style.css` files, have already been linked in the `<head>`.
  
